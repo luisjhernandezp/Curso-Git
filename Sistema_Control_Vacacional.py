@@ -43,7 +43,7 @@ elif clave_departamento == 3:
 else:
     print("La calve de departamento no existe, vuelve a intentarlo.")
 
-print("este cambio es para el cruso de GitHub, que permite editar desde la pagina de GitHub el codigo")
+print("este cambio es para el curso de GitHub, que permite editar desde la pagina de GitHub el codigo")
 
 
 
