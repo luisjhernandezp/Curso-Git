@@ -1,6 +1,7 @@
 print("***************************************")
 print("* Sistema de control vacacional PDVSA *")
 print("*************************************** \n")
+""" Realizado por: Luis Hernandez"""
 
 nombre_empleado = input("Por favor introduce el nombre del empleado: ")
 clave_departamento = int(input("Por favor introduce la clave del departamento: "))
